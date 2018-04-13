@@ -125,7 +125,7 @@ class ProductTable extends React.Component {
         });
 
         const hStyle = {
-            padding: '10px 0px',
+            // padding: '10px 0px',
             border: '2px blue solid'
         };
 

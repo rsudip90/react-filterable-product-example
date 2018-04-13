@@ -19,12 +19,14 @@
     color: blue;
 }
 
+th, td {
+    padding: 10px 40px;
+}
+
 .ProductCategoryRow th {
-    padding: 10px 0px;
     border: 2px black solid;
 }
 
 .ProductRow td {
-    padding: 10px 40px;
     border: 1px black dotted;
 }
